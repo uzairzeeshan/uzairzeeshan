@@ -21,7 +21,7 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 📫 Let’s connect:
 
-LinkedIn: linkedin.com/in/khalidshaik09
+LinkedIn: (https://www.linkedin.com/in/zeeshan-uzair-irfan-khan-02b64a261/)
 
 GitHub: github.com/uzairzeeshan
 <!--
