@@ -1,5 +1,4 @@
 ## Hi there 👋
-khalid-shaik/README.md
 Hi, I’m Zeeshan Uzair Irfan Khan, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
 
 🔹 I specialize in:
